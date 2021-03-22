@@ -8,7 +8,7 @@ import {
 } from "selenium-webdriver";
 import { BasePage } from "./BasePage";
 const fs = require("fs");
-
+//updating something
 export class SearchPage extends BasePage {
     //topicSearchbarMovies: By = By.css('input[placeHolder = "E.g. horses"]');
     //topicSearchbarPeople: By = By.css('input[placeHolder = "E.g. arrested"]');

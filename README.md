@@ -14,7 +14,7 @@
 ## Summary
 
 This project was put together to test bonnieplants.com. For the automation, it uses Jest as a test
-runner, and Selenium Webdriver to hook into the browser. Manual test cases are on Jira.
+runner, and Selenium Webdriver to hook into the browser. Manual test cases are on Jira. 
 
 ## Setup
 

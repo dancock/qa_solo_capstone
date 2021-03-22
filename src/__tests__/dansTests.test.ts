@@ -1,4 +1,5 @@
 import { SearchPage } from "../page objects/SearchResults";
+//something to update
 
 describe("search testing", () => {
     const page = new SearchPage({ browser: "chrome" });
