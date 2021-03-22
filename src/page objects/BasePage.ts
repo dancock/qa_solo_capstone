@@ -19,7 +19,7 @@ import {
     /** some pages may have a base url */
     url?: string;
   }
-  //updating something
+  
   export class BasePage {
     driver: WebDriver;
     url: string; // = "https://bonnieplants.com"
