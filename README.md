@@ -1,4 +1,4 @@
-# Group 2's Project
+# Solo Capstone Project
 
 - [Summary](#summary)
 - [Setup](#setup)
