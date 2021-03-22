@@ -19,7 +19,6 @@ export class SearchPage extends BasePage {
     //peopleAdvPulldown: By = By.xpath('(//select[@class="ipl-select__input"])[2]');
     //searchComboBox: By = By.css('label[aria-label="All"]');
 
-
     searchKeyword = "peppers";
     //resultsKeywordSelector = '//input[@value="peppers"]';
     resultsKeyword: By = By.xpath(`'(//input[@value="${this.searchKeyword}"])'`);
